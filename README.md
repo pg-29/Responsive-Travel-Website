@@ -1,4 +1,7 @@
-Welcome to our Travel Website project! This is a simple yet elegant platform designed to inspire wanderlust and facilitate travel planning. Our website is built using HTML, CSS, and JavaScript, offering a seamless user experience for exploring destinations and discovering new adventures.
+Welcome to our Travel Website project! This is a simple yet elegant platform designed to inspire wanderlust and facilitate travel planning. 
+Our website is built using HTML, CSS, and JavaScript, offering a seamless user experience for exploring destinations and discovering new adventures.
+
+Travel Website name : Namaste 🙏 India
 
 Technologies Used:
 1. HTML: Used for structuring the web pages and organizing content.
