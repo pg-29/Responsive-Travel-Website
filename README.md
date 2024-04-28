@@ -17,4 +17,4 @@ Our website is built using HTML, CSS, and JavaScript, offering a seamless user e
 <img width="1419" alt="Screenshot 2024-04-20 at 10 33 49 AM" src="https://github.com/pg-29/Responsive-Travel-Website/assets/122177879/b6eb8ffa-4f35-44db-a78c-a9396a16a78d">
 
 ## Live Demo
-<link href="https://namasteindia.netlify.app" </link>
+You can try out the live demo [here](https://namasteindia.netlify.app).
