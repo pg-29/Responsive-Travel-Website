@@ -14,6 +14,7 @@ Our website is built using HTML, CSS, and JavaScript, offering a seamless user e
 3. Register/Login: Create an account or log in to access additional features, save favorites, and manage bookings.
 4. Contribute: Share your travel experiences, tips, and recommendations with the community to enrich the platform.
 
+## Screenshot
 <img width="1419" alt="Screenshot 2024-04-20 at 10 33 49 AM" src="https://github.com/pg-29/Responsive-Travel-Website/assets/122177879/b6eb8ffa-4f35-44db-a78c-a9396a16a78d">
 
 ## Live Demo
