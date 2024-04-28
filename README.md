@@ -1,3 +1,5 @@
+# Responsive Travel Website
+
 Welcome to our Travel Website project! This is a simple yet elegant platform designed to inspire wanderlust and facilitate travel planning. 
 Our website is built using HTML, CSS, and JavaScript, offering a seamless user experience for exploring destinations and discovering new adventures.
 
