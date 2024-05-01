@@ -3,7 +3,7 @@
 Welcome to our Travel Website project! This is a simple yet elegant platform designed to inspire wanderlust and facilitate travel planning. 
 Our website is built using HTML, CSS, and JavaScript, offering a seamless user experience for exploring destinations and discovering new adventures.
 
-## Travel Website name : Namaste 🙏 India
+## Website name : Namaste 🙏 India
 
 ## Technologies Used
 1. HTML: Used for structuring the web pages and organizing content.
@@ -16,8 +16,8 @@ Our website is built using HTML, CSS, and JavaScript, offering a seamless user e
 3. Register/Login: Create an account or log in to access additional features, save favorites, and manage bookings.
 4. Contribute: Share your travel experiences, tips, and recommendations with the community to enrich the platform.
 
-## Screenshot
+## Demo Screenshot
 <img width="1419" alt="Screenshot 2024-04-20 at 10 33 49 AM" src="https://github.com/pg-29/Responsive-Travel-Website/assets/122177879/b6eb8ffa-4f35-44db-a78c-a9396a16a78d">
 
-## Live Demo
-You can try out the live demo [here](https://namasteindia.netlify.app).
+## Explore
+➥ [Live Demo](https://namasteindia.netlify.app)
